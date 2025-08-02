@@ -1,4 +1,4 @@
-# Task-4-Loan-Default-Risk-with-Business-Cost-Optimization
+# Loan-Default-Risk-with-Business-Cost-Optimization
 
 ## ✅ Task Objective
 To predict loan default risk and reduce overall business loss by optimizing the model decision threshold based on a cost-benefit framework.
